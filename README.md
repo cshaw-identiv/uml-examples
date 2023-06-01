@@ -2,7 +2,7 @@
 Test repository for investigating and trying out UML documentation in GitHub.
 
 Links here to:
-- [Sequence Diagrams](SequenceDiagrams.md)
+- [Sequence Diagrams](uml/sequence_diagrams/)
 
 Or can add diagrams directly into the README file, as below.
 
